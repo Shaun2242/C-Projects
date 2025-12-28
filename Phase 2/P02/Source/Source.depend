@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1722562602 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\source\main.cpp
+	"Emoticon.h"
+	<iostream>
+	<fstream>
+
+1722559502 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\source\emoticon.h
+	<string>
+
+1722562675 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\source\emoticon.cpp
+	"Emoticon.h"
+	<iostream>
+	<sstream>
+	<cmath>
+

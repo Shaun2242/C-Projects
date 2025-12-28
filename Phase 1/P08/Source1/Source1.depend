@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714005784 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_2024_p7\source1\main.cpp
+	"terrainSpace.h"
+	<iostream>
+
+1714005691 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_2024_p7\source1\terrainspace.h
+
+1714005739 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_2024_p7\source1\terrainspace.cpp
+	"terrainSpace.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1713734628 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_2024_p7\test\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	<cassert>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712276155 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\source2\main.cpp
+	<iostream>
+	"Gamespace.h"
+	"Gamespace.cpp"
+	<cstdlib>
+
+1712273208 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\source2\gamespace.h
+	<vector>
+
+1712274821 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\source2\gamespace.cpp
+	"Gamespace.h"
+	<iostream>
+	<cstdlib>
+

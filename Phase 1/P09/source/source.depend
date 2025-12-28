@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714091859 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\legothoane_ms_223007245_2024_p9\source\mistspace.cpp
+	"mistSpace.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1714088226 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\legothoane_ms_223007245_2024_p9\source\mistspace.h
+
+1714093773 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\legothoane_ms_223007245_2024_p9\source\main.cpp
+	"mistSpace.h"
+	<iostream>
+

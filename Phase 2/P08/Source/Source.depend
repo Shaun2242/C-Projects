@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1726795294 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\source\main.cpp
+	<iostream>
+	"UJBoard.h"
+
+1726798213 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\source\ujboard.h
+	"UJBoardRow.h"
+
+1726798297 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\source\ujboardrow.h
+	<iostream>
+	"UJBoardRow.tpp"
+
+1726798263 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\source\ujboardrow.tpp
+	"UJBoardRow.h"
+
+1726796032 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\source\ujboard.cpp
+	"UJBoard.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+

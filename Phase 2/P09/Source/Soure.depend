@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1728600370 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\past papers\soure\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	"StationList.h"
+
+1728611400 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\past papers\soure\stationlist.h
+	<iostream>
+	<cstring>
+	<fstream>
+
+1728611608 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\past papers\soure\rankexception.cpp
+	<exception>
+	<iostream>
+	"RankException.h"
+
+1728611590 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\past papers\soure\rankexception.h
+	<exception>
+	<string>
+
+1728611670 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\past papers\soure\stationlist.cpp
+	<iostream>
+	"StationList.h"
+	"rankException.h"
+	<string>
+	<fstream>
+

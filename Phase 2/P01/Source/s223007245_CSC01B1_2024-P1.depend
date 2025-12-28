@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1721950902 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\s223007245_csc01b1_2024-p1\gameworld.cpp
+	"GameWorld.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1721950855 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\s223007245_csc01b1_2024-p1\gameworld.h
+	<vector>
+
+1584205420 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\s223007245_csc01b1_2024-p1\main.cpp
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726176300 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_223007245_p07\sfmlsource\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+

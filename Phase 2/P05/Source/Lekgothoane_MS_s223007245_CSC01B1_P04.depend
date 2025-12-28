@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1723766369 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ccimage.cpp
+	"CCImage.h"
+	<sstream>
+
+1723766369 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ccimage.h
+	<iostream>
+	<cstdlib>
+	"UJUtilLib.h"
+
+1723766369 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ujutillib.h
+	<iostream>
+
+1723766808 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\main.cpp
+	"CCImage.h"
+	"UJEdgeFilter.h"
+	"UJBlurFilter.h"
+
+1723766369 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ujedgefilter.h
+	"UJFilter.h"
+
+1723766369 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ujfilter.h
+	"CCImage.h"
+
+1723766782 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ujblurfilter.h
+	"UJFilter.h"
+
+1723766782 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ujblurfilter.cpp
+	"UJBlurFilter.h"
+
+1723766593 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ujedgefilter.cpp
+	"UJEdgeFilter.h"
+
+1723766369 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 2\csc01b1\practical answers\lekgothoane_ms_s223007245_csc01b1_p04\ujutillib.cpp
+	"UJUtilLib.h"
+	"CCImage.h"
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+

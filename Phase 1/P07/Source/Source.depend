@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712873797 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_2024_p7\source\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdlib>
+	"cellula.cpp"
+	"cellula.h"
+
+1712875303 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_2024_p7\source\cellula.cpp
+	<iostream>
+	<cstdlib>
+	"cellula.h"
+	<iomanip>
+
+1712871569 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_2024_p7\source\cellula.h
+

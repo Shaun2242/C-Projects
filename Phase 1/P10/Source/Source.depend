@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1715310873 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_p11\source\main.cpp
+	"ScaleSpace.h"
+	<iostream>
+
+1715309481 c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_p11\source\scalespace.h
+	<vector>
+
+1715310761 source:c:\users\shaun\desktop\academics\subjects\2ndyear\semester 1\csc01a1\practical answers\lekgothoane_ms_223007245_p11\source\scalespace.cpp
+	"ScaleSpace.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
